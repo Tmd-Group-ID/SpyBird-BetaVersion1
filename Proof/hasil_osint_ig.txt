@@ -1,0 +1,1 @@
+{'name': 'instagram', 'domain': 'instagram.com', 'method': 'register', 'frequent_rate_limit': True, 'rateLimit': True, 'exists': False, 'emailrecovery': None, 'phoneNumber': None, 'others': None}
