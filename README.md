@@ -1,5 +1,7 @@
 # SpyBird Version 1.0.0
 SpyBird is OSINT Tools(INFORMATION GATHERING PERSON)
+![SpyBird Logo](logo.png)
+
 Feature:
 1. OSINT EMAIL
 2. OSINT INSTAGRAM
